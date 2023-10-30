@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/investment-calculator/static/css/main.2dace487.css",
-    "main.js": "/investment-calculator/static/js/main.2fb0c7be.js",
-    "static/media/investment-calculator-logo.png": "/investment-calculator/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
-    "index.html": "/investment-calculator/index.html",
-    "main.2dace487.css.map": "/investment-calculator/static/css/main.2dace487.css.map",
-    "main.2fb0c7be.js.map": "/investment-calculator/static/js/main.2fb0c7be.js.map"
+    "main.css": "/Investment-calculator/static/css/main.2dace487.css",
+    "main.js": "/Investment-calculator/static/js/main.1f523013.js",
+    "static/media/investment-calculator-logo.png": "/Investment-calculator/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/Investment-calculator/index.html",
+    "main.2dace487.css.map": "/Investment-calculator/static/css/main.2dace487.css.map",
+    "main.1f523013.js.map": "/Investment-calculator/static/js/main.1f523013.js.map"
   },
   "entrypoints": [
     "static/css/main.2dace487.css",
-    "static/js/main.2fb0c7be.js"
+    "static/js/main.1f523013.js"
   ]
 }
