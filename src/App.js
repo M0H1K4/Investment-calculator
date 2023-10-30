@@ -49,7 +49,7 @@ function App() {
         <div className="input-group">
           <p>
             <label htmlFor="expected-return">
-              Expected Interest (%, per year)
+              Expected Interest ! ! ! ! (%, per year)
             </label>
             <input type="number" id="expected-return" />
           </p>
